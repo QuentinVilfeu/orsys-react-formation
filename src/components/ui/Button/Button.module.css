@@ -1,0 +1,20 @@
+.Button {
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0 25px 0 25px;
+    box-shadow: 25px 25px 25px grey;
+
+    font-size: 23pt;
+    font-weight: 900;
+
+    display: inline;
+
+    color: #fff;
+    background-color: #ff6347;
+}
+
+.Button img {
+    width: 32px;
+    height: 32px;
+}
